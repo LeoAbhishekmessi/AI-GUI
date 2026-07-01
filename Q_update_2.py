@@ -1553,7 +1553,7 @@ class MainWindow(QMainWindow):
 
     def keyPressEvent(self, event: QKeyEvent):
         super().keyPressEvent(event)
-
+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
 # -----------------------------------------------------------------------------
 # Main Entry Point
 # -----------------------------------------------------------------------------
