@@ -55,7 +55,7 @@ def start_blocking():
         block_keys()
     except Exception as e:
         logging.error(f"Error blocking keys: {e}")
-
+Print (a)
 blocking_thread = threading.Thread(target=start_blocking, daemon=True)
 blocking_thread.start()
 
