@@ -30,7 +30,7 @@ from PyQt6.QtWidgets import (
 from PyQt6.QtGui import QFont, QPixmap, QKeyEvent
 from PyQt6.QtMultimediaWidgets import QVideoWidget
 from PyQt6.QtMultimedia import QCamera, QMediaDevices, QMediaCaptureSession
-
+print(a)
 # -----------------------------------------------------------------------------
 # Logging Setup
 # -----------------------------------------------------------------------------
